@@ -10,10 +10,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          From <code>src/App.js</code> .
         </p>
         <span>
-          <span>Learn </span>
+          <span>Refer </span>
           <a
             className="App-link"
             href="https://reactjs.org/"
